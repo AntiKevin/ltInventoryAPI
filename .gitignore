@@ -1,0 +1,6 @@
+/__pycache__
+*.pyc
+/env
+/.vscodes
+ltInventory/.env
+.vscode/settings.json
